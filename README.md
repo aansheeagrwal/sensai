@@ -1,6 +1,6 @@
 # 🤖 SensAI – AI Career Coach with Real-Time Insights & Mock Interviews
 
-![SensAI Banner](assets/logo.png)
+![SensAI Banner](assets/Sens.jpg)
 
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
